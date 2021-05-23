@@ -4,7 +4,7 @@
 
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 
-- :point_right:  You can read more about me at my [personal website](https://www.yogi2103.github.io/)
+- :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
 
 - :handshake:  Feel free to connect with me on [Twitter](https://twitter.com/Baghel86Yogesh) or [LinkedIn](https://www.linkedin.com/in/yogesh-baghel/)
 
