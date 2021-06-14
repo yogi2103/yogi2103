@@ -3,6 +3,7 @@
 <a href="mailto:yogesh.baghel86@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a> <a href="https://www.linkedin.com/in/yogesh-baghel/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>
 - :smile:  I'm Yogesh (Yogi) Kumar, I'm a junior majoring in Computer Science at the Lovely Professional University:
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
+- ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
 
 ### My Experiences 🙌
 - Teaching Assistant at [Coding Ninjas](https://codingninjas.com) for Web Development which helped in my debugging skills and solved 900+ doubts in duration of 4 months and was among the best working TA's there.
