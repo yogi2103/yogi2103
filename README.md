@@ -6,7 +6,7 @@
 - :smile:  I'm Yogesh (Yogi) Kumar, I'm a junior majoring in Computer Science at the Lovely Professional University
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 - 👨‍💻  I am passionate about Web Dev, Machine Learning, Competitive Programming & I enjoy learning new things. </br>
-- ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [Hackerrank](https://www.hackerrank.com/yogesh_baghel86?hr_r=1) [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
+- ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [Hackerrank](https://www.hackerrank.com/yogesh_baghel86?hr_r=1) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
 
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
