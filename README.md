@@ -30,9 +30,12 @@
 - Won the Blog writing Competition organized by Coding Ninjas and wrote around 30+ [articles](https://www.codingninjas.com/blog/?s=yogesh+kumar) on their website about data structures and algorithms.
 
 :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
+
 <a href="https://profile-summary-for-github.com/user/yogi2103">
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=yogi2103&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Yogesh's GitHub stats"/>
 
- <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogi2103.yogi2103)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yogi2103/count.svg" />
+</p>
 
