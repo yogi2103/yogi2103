@@ -22,6 +22,7 @@
 - Full stack Intern at [Eulogik](https://eulogik.com/) where I wrote technical documents and worked on different tech stacks and many frameworks such as Angular/ React etc and manily dealing with REST-APIs.
 - [Member of AWS Community at LPU](https://awscloudcommunitylpu.netlify.app/) - Conducted workshops & webinars on DevOps, Open Source, Cloud etc.
 
-- :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
+:point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
+
 <a href="https://profile-summary-for-github.com/user/yogi2103">
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=yogi2103&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Yogesh's GitHub stats"/>
