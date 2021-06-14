@@ -5,6 +5,18 @@
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
 - ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
 
+ ### 🔧 Languages and Frameworks:
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+
 ### My Experiences 🙌
 - Teaching Assistant at [Coding Ninjas](https://codingninjas.com) for Web Development which helped in my debugging skills and solved 900+ doubts in duration of 4 months and was among the best working TA's there.
 - Full stack Intern at [Eulogik](https://eulogik.com/) where I wrote technical documents and worked on different tech stacks and many frameworks such as Angular/ React etc and manily dealing with REST-APIs.
