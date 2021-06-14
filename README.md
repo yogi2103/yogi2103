@@ -23,8 +23,8 @@
 - [Member of AWS Community at LPU](https://awscloudcommunitylpu.netlify.app/) - Conducted workshops & webinars on DevOps, Open Source, Cloud etc.
 
 ### Honors & Awards 🏅
-- Received Rank 1 in Oncampus Hiring by Board Infinity for the SDE role (https://www.hackerrank.com/contests/board-infinity-hiring-challange/leaderboard) on Hackerrank.
-- Won the Blog writing Competition organized by Coding Ninjas and wrote around 30+ articles(https://www.codingninjas.com/blog/?s=yogesh+kumar) on their website about data structures and algorithms.
+- Received Rank 1 in Oncampus Hiring by Board Infinity for the [SDE role](https://www.hackerrank.com/contests/board-infinity-hiring-challange/leaderboard) on Hackerrank.
+- Won the Blog writing Competition organized by Coding Ninjas and wrote around 30+ [articles](https://www.codingninjas.com/blog/?s=yogesh+kumar) on their website about data structures and algorithms.
 
 :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
 
