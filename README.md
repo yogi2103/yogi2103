@@ -21,6 +21,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
 ### My Experiences 🙌
+- Currently working as a SDE intern at [Infineon Technologies](https://www.infineon.com/)
 - Teaching Assistant at [Coding Ninjas](https://codingninjas.com) for Web Development which helped in my debugging skills and solved 900+ doubts in duration of 4 months and was among the best working TA's there.
 - Full stack Intern at [Eulogik](https://eulogik.com/) where I wrote technical documents and worked on different tech stacks and many frameworks such as Angular/ React etc and manily dealing with REST-APIs.
 - [Member of AWS Community at LPU](https://awscloudcommunitylpu.netlify.app/) - Conducted workshops & webinars on DevOps, Open Source, Cloud etc.
