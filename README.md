@@ -31,16 +31,28 @@
 - Won the Blog writing Competition organized by Coding Ninjas and wrote around 30+ [articles](https://www.codingninjas.com/blog/?s=yogesh+kumar) on their website about data structures and algorithms.
 
 :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
-
-<a href="https://profile-summary-for-github.com/user/yogi2103">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=yogi2103&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Yogesh's GitHub stats"/>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yogi2103/count.svg" />
-</p>
  
- <p align="center">
-  <img src="https://github.com/yogi2103/yogi2103/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+ # Github Activity📊:
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yogi2103&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi2103&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yogi2103&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yogi2103&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogi2103&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=yogi2103&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
