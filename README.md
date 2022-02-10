@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm [Yogesh!](https://Yogi2103.github.io) 
 
-<a href="mailto:yogesh.baghel86@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a> <a href="https://www.linkedin.com/in/yogesh-baghel/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>
-
 ### About Me 🚀
 - :smile:  I'm Yogesh (Yogi) Kumar, I'm a junior majoring in Computer Science at the Lovely Professional University
 - :star:  I’m looking for **Software engineering internship opportunities** :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
@@ -38,6 +36,7 @@
 <a href="https://www.instagram.com/kabira_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
 <a href="https://medium.com/@yogesh-baghel86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
 <a href="https://leetcode.com/Yogi2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
+<a href="mailto:yogesh.baghel86@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>
  
 
 <hr>
