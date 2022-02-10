@@ -31,6 +31,26 @@
 - Won the Blog writing Competition organized by Coding Ninjas and wrote around 30+ [articles](https://www.codingninjas.com/blog/?s=yogesh+kumar) on their website about data structures and algorithms.
 
 :point_right:  You can read more about me at my [personal website](https://yogi2103.github.io/)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/yogesh-baghel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kabira_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
+<a href="https://medium.com/@yogesh-baghel86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
+<a href="https://leetcode.com/Yogi2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
+ 
+
+<hr>
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
+  
+</a>
+
+<hr>
+
  
  # Github Activity📊:
 
