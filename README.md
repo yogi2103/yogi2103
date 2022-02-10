@@ -6,10 +6,6 @@
 - 👨‍💻  I am passionate about Web Dev, Machine Learning, Competitive Programming & I enjoy learning new things. </br>
 - ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [Hackerrank](https://www.hackerrank.com/yogesh_baghel86?hr_r=1) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
 
-<p align="center">
-  <img src="https://github.com/yogi2103/yogi2103/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <hr>
 
  ### 🔧 Languages and Frameworks:
